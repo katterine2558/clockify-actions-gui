@@ -1,0 +1,93 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/Katerine Arias/Documents/clockify/run.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/Katerine Arias/Documents/clockify/_images/logo.ico"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Python311/Lib/site-packages/customtkinter;customtkinter/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Katerine Arias/Documents/clockify/_images;_images/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Katerine Arias/Documents/clockify/_lib;_lib/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\clockify\\.venv\\Lib\\site-packages\\requests;requests/"
+   },
+   {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\clockify\\.venv\\Lib\\site-packages\\requests_oauthlib;requests_oauthlib/"
+   },
+   {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\clockify\\.venv\\Lib\\site-packages\\PIL;PIL/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\clockify\\.venv\\Lib\\site-packages\\pytz;pytz/"
+  },
+  {
+    "optionDest": "datas",
+    "value": "C:\\Users\\Katerine Arias\\Documents\\clockify\\.venv\\Lib\\site-packages\\gspread;gspread/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
